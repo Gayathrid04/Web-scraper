@@ -1,10 +1,10 @@
 Web Scraper using LLMs
 
-Objective
+1) Objective
 
 To create a web scraper application integrated with Large Language Models (LLMs) for processing and summarizing scraped data.
 
-Detailed Procedure
+2)Detailed Procedure
 
 Web Scraping: Use Python libraries like BeautifulSoup and Requests to extract data from web pages.
 
@@ -18,15 +18,15 @@ Frontend Development: Create an HTML/CSS interface to initiate web scraping (e.g
 
 Web Search Integration: Allow users to enter a topic, search the web for relevant pages, and scrape the selected webpage.
 
-Technologies Used
+3)Technologies Used
 
-Python
+-Python
 
-BeautifulSoup & Requests (Web Scraping)
+-BeautifulSoup & Requests (Web Scraping)
 
-LlamaIndex & Ollama (LLM Processing)
+-LlamaIndex & Ollama (LLM Processing)
 
-Flask (Backend Development)
+-Flask (Backend Development)
 
-HTML/CSS (Frontend Interface)
+-HTML/CSS (Frontend Interface)
 
